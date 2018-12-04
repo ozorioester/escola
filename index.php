@@ -11,6 +11,7 @@
         
         <form action="insere.php" method="post">
             <fieldset>
+                <legend>Dados do Aluno</legend>
                 <label>Nome</label>
                 <input type="text" name="nome" />
                 <br>
@@ -23,7 +24,7 @@
                 <select name="turma">
                     <option value="PHP1">PHP1</option>
                     <option value="PHP2">PHP2</option>
-                    <option value="Mysql">Mysql</option>
+                    <option value="Mysql">MYSQL</option>
                     <option value="AJAX">Ajax</option>
                     <option value="HTML">HTML</option>
                 </select>
