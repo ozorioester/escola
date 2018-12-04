@@ -1,0 +1,15 @@
+
+th {
+    background-color: cornflowerblue;
+    padding: 4px;
+    border: 1px solid black;
+}
+
+td {
+    padding: 4px;
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
